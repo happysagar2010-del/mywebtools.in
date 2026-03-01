@@ -1,4 +1,4 @@
-dbdfh
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <script type="application/ld+json">
@@ -2162,9 +2162,7 @@ Simply paste your text, choose your settings, and experience the difference in y
     </script>
 </body>
 </html>
-<bn></bn>
-<bn></bn>
-<h2> 2nd tool</h2> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
