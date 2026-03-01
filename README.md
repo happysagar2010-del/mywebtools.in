@@ -2194,7 +2194,7 @@ Simply paste your text, choose your settings, and experience the difference in y
         }
 
         .options-card {
-            max-width: 680px;
+            max-width: 780px;
             width: 100%;
             background: #ffffff;
             border-radius: 42px;
