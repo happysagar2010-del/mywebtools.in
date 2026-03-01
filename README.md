@@ -2162,7 +2162,7 @@ Simply paste your text, choose your settings, and experience the difference in y
     </script>
 </body>
 </html>
-2nd tool
+<h2> 2nd tool</h2> 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
